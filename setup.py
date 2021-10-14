@@ -9,6 +9,6 @@ setup(name = 'django-mailman',
     author_email = 'albert@albertoconnor.ca',
     description = 'Interface to Mailman Web-API',
     long_description = open('README.rst').read(),
-    url = 'https://github.com/JuanCerquera/django-mailman',
-    download_url = 'https://github.com/JuanCerquera/django-mailman/archive/refs/tags/0.4.1.tar.gz'
+    url = 'https://github.com/JuanCerquera/django-mailman-eso',
+    download_url = 'https://github.com/JuanCerquera/django-mailman-eso/archive/refs/tags/0.4.1.tar.gz'
 )
